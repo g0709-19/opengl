@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="aaa.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0325.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0325_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0320.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0330_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0401.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HW2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0406.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0408.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0413.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0415.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MidTerm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0427.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0427_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0429.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0429_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0504.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0504_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0506.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0506_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0511.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0511_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0513.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0513_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HW3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0520.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0520_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0525.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0527.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0601.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0527_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0601_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0601_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0608.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lodepng.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lodepng.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
